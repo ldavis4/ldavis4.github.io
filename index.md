@@ -1,5 +1,4 @@
 Hello World
 
-[My Hello World Repo](https://github.com/ldavis4/hello-world.git)
 
-![Git it image](images/atom-text-file.png.png)
+![Git it image](images/github-image.png)
